@@ -8,9 +8,9 @@ namespace mis321_pa2_ncward1
         public Random rnd = new Random();
         public int MaxPower {get; set;}
         public double Health = 100;
-        public int AttackStrength {get; set;}
-        public int DefensePower {get; set;}
-        public string SpecialAttack {get; set;}
+        public double AttackStrength {get; set;}
+        public double DefensePower {get; set;}
+    
 
         public Character()
         {
