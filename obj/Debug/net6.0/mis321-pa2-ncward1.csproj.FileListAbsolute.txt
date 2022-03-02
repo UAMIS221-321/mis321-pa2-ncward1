@@ -1,0 +1,15 @@
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\mis321-pa2-ncward1.exe
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\mis321-pa2-ncward1.deps.json
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\mis321-pa2-ncward1.runtimeconfig.json
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\mis321-pa2-ncward1.dll
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\ref\mis321-pa2-ncward1.dll
+C:\Users\ncwar\repos\mis321-pa2-ncward1\bin\Debug\net6.0\mis321-pa2-ncward1.pdb
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.csproj.AssemblyReference.cache
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.AssemblyInfoInputs.cache
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.AssemblyInfo.cs
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.csproj.CoreCompileInputs.cache
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.dll
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\ref\mis321-pa2-ncward1.dll
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.pdb
+C:\Users\ncwar\repos\mis321-pa2-ncward1\obj\Debug\net6.0\mis321-pa2-ncward1.genruntimeconfig.cache
