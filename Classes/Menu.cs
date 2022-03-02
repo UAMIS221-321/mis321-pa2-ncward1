@@ -38,7 +38,7 @@ namespace mis321_pa2_ncward1
                 System.Console.WriteLine($"Please choose a name: Jack Sparrow , Will Turner , Davy Jones");
                 check2 = Console.ReadLine();
             }
-            char1.Name=check2;
+            char2.Name=check2;
 
             System.Console.WriteLine("Press any key to continue");
             Console.ReadKey();
@@ -51,7 +51,8 @@ namespace mis321_pa2_ncward1
             Random rnd = new Random();
             int attacker = rnd.Next(0,2);
 
-            
+            GamePlay game = new GamePlay();
+            game.Attack(char1,char2, player1, player2);
 
         }
 

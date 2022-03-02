@@ -6,8 +6,8 @@ namespace mis321_pa2_ncward1
     {
         static void Main(string[] args)
         {
-            Menu start = new Menu();
-            start.CharacterSelection();
+            Menu menu = new Menu();
+            menu.CharacterSelection();
 
             
 

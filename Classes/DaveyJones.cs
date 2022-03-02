@@ -3,6 +3,6 @@ namespace mis321_pa2_ncward1
 {
     public class DaveyJones : Character
     {
-        
+
     }
 }

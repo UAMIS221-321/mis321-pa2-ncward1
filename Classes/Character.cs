@@ -5,18 +5,18 @@ namespace mis321_pa2_ncward1
     {
 
         public string Name {get; set;}
+        public Random rnd = new Random();
         public int MaxPower {get; set;}
-        public int Health {get; set;}
+        public double Health = 100;
         public int AttackStrength {get; set;}
         public int DefensePower {get; set;}
+        public string SpecialAttack {get; set;}
 
         public Character()
         {
             Name = "";
-            Random rnd = new Random();
-            MaxPower = rnd.Next(0,101);
-            Health = 100;
-            AttackStrength = rnd.Next(0,MaxPower);
+            MaxPower = rnd.Next(1,101);
+            AttackStrength = rnd.Next(1,MaxPower);
             DefensePower = rnd.Next(MaxPower);
         }
         
